@@ -1,7 +1,22 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/stevenpawley/stevenpawley.r-universe.dev
 	branch = HEAD
+[submodule "ABwaterwells"]
+	path = ABwaterwells
+	url = https://github.com/stevenpawley/ABwaterwells
 [submodule "Rsagacmd"]
 	path = Rsagacmd
-	url = https://github.com/stevenpawley/rsagacmd
+	url = https://github.com/stevenpawley/Rsagacmd
+[submodule "rgrass"]
+	path = rgrass
+	url = https://github.com/OSGeo/rgrass
+[submodule "stacbuildr"]
+	path = stacbuildr
+	url = https://github.com/stevenpawley/stacbuildr
+[submodule "stacserver"]
+	path = stacserver
+	url = https://github.com/stevenpawley/stacserver
+[submodule "usgsm2m"]
+	path = usgsm2m
+	url = https://github.com/stevenpawley/usgsm2m
