@@ -14,9 +14,6 @@
 [submodule "stacbuildr"]
 	path = stacbuildr
 	url = https://github.com/stevenpawley/stacbuildr
-[submodule "stacserver"]
-	path = stacserver
-	url = https://github.com/stevenpawley/stacserver
 [submodule "usgsm2m"]
 	path = usgsm2m
 	url = https://github.com/stevenpawley/usgsm2m
